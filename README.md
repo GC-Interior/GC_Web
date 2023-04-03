@@ -1,6 +1,6 @@
-<h1>Makeova</h1>
+<h1>GC Interior</h1>
 
-Makeova is a modern responsive HTML5 landing page template suitable for use by home renovation agencies or contractors. With this template, you can easily create a landing page website. Some of the design components shipped with this template include:
+GC Interior is a modern responsive HTML5 landing page template suitable for use by home renovation agencies or contractors. With this template, you can easily create a landing page website. Some of the design components shipped with this template include:
 
 <ul>
   <li>Animated pulsing play button</li>
@@ -31,7 +31,7 @@ This template was developed using Bootstrap5, Sass, Fontawesome, Bootstrap Icons
 <h2>Links</h2>
 
 <ul>
-  <li>Demo: <a href="https://makeova.netlify.app/" target="_blank">https://makeova.netlify.app/</a></li>
+  <li>Demo: <a href="https://GCInterior.smarter.works/" target="_blank">https://GCInterior.smarter.works/</a></li>
 </ul>
 
 <h2>Tech Stack</h2>
